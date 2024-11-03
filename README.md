@@ -6,5 +6,8 @@ Welcome to my CSES Problem Solutions repo, where I sometimes code my way through
 - [Increasing Array](https://github.com/emonislive/CSES-problems/blob/main/c%2B%2B/1094%20-%20Increasing%20Array.cpp)
 - [Repetitions](https://github.com/emonislive/CSES-problems/blob/main/c%2B%2B/1069%20-%20Repetitions.cpp)
 
+## Sorting and Searching
+- [Distinct Numbers](https://github.com/emonislive/CSES-problems/blob/main/c%2B%2B/1621%20-%20Distinct%20Numbers.cpp)
+
 ### Mathematics
 - [Counting Divisors](https://github.com/emonislive/CSES-problems/blob/main/c%2B%2B/1713%20-%20Counting%20Divisors.cpp)
